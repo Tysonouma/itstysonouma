@@ -3,7 +3,7 @@
   <!-- Hero Banner with Custom HTML for Gradient Background and Profile Image -->
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 15px; color: white; margin-bottom: 2rem;">
     <img src="https://via.placeholder.com/150x150?text=[Your+Profile+Photo]" alt="Profile Photo" style="border-radius: 50%; border: 3px solid white; width: 150px; height: 150px;">
-    <h1 style="margin: 1rem 0; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">[Your Name]</h1>
+    <h1 style="margin: 1rem 0; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">[Teddy Ouma]</h1>
     <p style="font-size: 1.2rem; margin: 0.5rem 0;">ALX Professional Foundations Learner | Aspiring Software Engineer</p>
     <p style="font-size: 1.1rem; margin: 1rem 0; opacity: 0.9;">[Insert your passion text: e.g., "I started with software engineering because it empowers me to solve real-world problems with code— from optimizing healthcare workflows in Kenya to building intuitive apps that drive social impact. What inspires me is the endless creativity in turning complex challenges into elegant solutions."]</p>
     <!-- Badges for Quick Creds -->
