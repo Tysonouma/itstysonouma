@@ -18,17 +18,7 @@
 <!-- About Section: Vision and Goals -->
 ## 👋 About Me
 <div style="background-color: #f8f9fa; padding: 1.5rem; border-left: 5px solid #667eea; border-radius: 5px; margin-bottom: 1rem;">
-  <strong>My Aim:</strong> "My aim is to become a full-stack software engineer contributing to innovative African tech startups, fostering digital inclusion and scalable solutions for underserved communities."]
+  <strong>My Aim:</strong> My aim is to become a full-stack software engineer contributing to innovative African tech startups, fostering digital inclusion and scalable solutions for underserved communities.
 </div>
 
 As a dedicated learner in ALX's Professional Foundations program, I'm passionate about crafting clean, efficient code and collaborating on open-source projects. I'm building a foundation in core software engineering principles while exploring creative tech intersections like UI/UX and cloud computing. Let's connect to create impact!
-
-<!-- Stats Cards: Dynamic via GitHub Actions -->
-<div align="center">
-  <h2>📊 Quick Stats</h2>
-  <!-- GitHub Stats Card (Embed via Shields.io or Action) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical&hide_border=true&bg_color=0f111a&title_color=fed7aa&text_color=FFFFFF" alt="GitHub Stats" />
-  <br><br>
-  <!-- Top Languages Donut -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=radical&hide_border=true&bg_color=0f111a&title_color=fed7aa&text_color=FFFFFF" alt="Top Languages" />
-</div>
