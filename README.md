@@ -28,16 +28,16 @@ Here's a snapshot of my growing expertise. I'm always learning—currently divin
 
 🔥 Featured Projects
 
-These showcase my hands-on work from ALX and personal experiments. I love tackling [insert types of projects: e.g., "full-stack web apps, AI-driven tools for social good, and collaborative open-source contributions"].
+These showcase my hands-on work from ALX and personal experiments. I love tackling full-stack web apps, AI-driven tools for social good, and collaborative open-source contributions.
 Project
 Description
 Tech Stack
 Link
-[Project 1 Name] <small>[Brief desc: e.g., "A responsive e-commerce dashboard that reduced load times by 40%."]</small>
+[Project 1] A responsive e-commerce dashboard that reduced load times by 40%.
 Stars
 Python, Flask, PostgreSQL
 ![Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
-[Project 2 Name] <small>[Brief desc: e.g., "An AI chatbot for Kenyan healthcare queries, emphasizing ethical data handling."]</small>
+[Project 2] An AI chatbot for Kenyan healthcare queries, emphasizing ethical data handling.
 Forks
 JavaScript, React, TensorFlow
 ![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=heroku) (https://[demo-url])
