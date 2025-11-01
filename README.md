@@ -21,7 +21,7 @@
   <strong>My Aim:</strong> "My aim is to become a full-stack software engineer contributing to innovative African tech startups, fostering digital inclusion and scalable solutions for underserved communities."]
 </div>
 
-As a dedicated learner in ALX's Professional Foundations program, I'm passionate about [insert passion summary, e.g., "crafting clean, efficient code and collaborating on open-source projects"]. I'm building a foundation in core software engineering principles while exploring creative tech intersections like UI/UX and cloud computing. Let's connect to create impact!
+As a dedicated learner in ALX's Professional Foundations program, I'm passionate about crafting clean, efficient code and collaborating on open-source projects. I'm building a foundation in core software engineering principles while exploring creative tech intersections like UI/UX and cloud computing. Let's connect to create impact!
 
 <!-- Stats Cards: Dynamic via GitHub Actions -->
 <div align="center">
