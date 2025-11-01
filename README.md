@@ -18,7 +18,7 @@
 <!-- About Section: Vision and Goals -->
 ## 👋 About Me
 <div style="background-color: #f8f9fa; padding: 1.5rem; border-left: 5px solid #667eea; border-radius: 5px; margin-bottom: 1rem;">
-  <strong>My Aim:</strong> [Insert your vision: e.g., "My aim is to become a full-stack software engineer contributing to innovative African tech startups, fostering digital inclusion and scalable solutions for underserved communities."]
+  <strong>My Aim:</strong> "My aim is to become a full-stack software engineer contributing to innovative African tech startups, fostering digital inclusion and scalable solutions for underserved communities."]
 </div>
 
 As a dedicated learner in ALX's Professional Foundations program, I'm passionate about [insert passion summary, e.g., "crafting clean, efficient code and collaborating on open-source projects"]. I'm building a foundation in core software engineering principles while exploring creative tech intersections like UI/UX and cloud computing. Let's connect to create impact!
@@ -32,19 +32,3 @@ As a dedicated learner in ALX's Professional Foundations program, I'm passionate
   <!-- Top Languages Donut -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=radical&hide_border=true&bg_color=0f111a&title_color=fed7aa&text_color=FFFFFF" alt="Top Languages" />
 </div>
-
-**To make stats dynamic:** Add this to `.github/workflows/stats.yml` in your repo:
-```yaml
-name: Update Stats
-on:
-  schedule: { cron: '0 0 * * 0' }  # Weekly
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: anmolbrighty1/Delorean8Plex-TimeMachine@master  # Or similar for stats update
-        with:
-          time_zone: 'Africa/Nairobi'
-          update_readme: 'true'
