@@ -25,3 +25,19 @@ As a dedicated learner in ALX's Professional Foundations program, I'm passionate
 
 🛠️ Skills & Toolkit
 Here's a snapshot of my growing expertise. I'm always learning—currently diving deeper into [e.g., "React and AWS"].<table style="width: 100%; border-collapse: collapse; margin-bottom: 1rem;"> <tr> <th style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ddd;">Skill</th> <th style="text-align: left; padding: 0.5rem; border-bottom: 1px solid #ddd;">Proficiency</th> </tr> <tr> <td style="padding: 0.5rem;"><img src="https://img.shields.io/badge/Python-Expert-green?style=flat&logo=python" alt="Python"> Python</td> <td style="padding: 0.5rem;"> <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 100%;"> <div style="background-color: #4CAF50; height: 100%; width: 90%; border-radius: 10px;"></div> </div> <small>90%</small> </td> </tr> <tr> <td style="padding: 0.5rem;"><img src="https://img.shields.io/badge/JavaScript-Intermediate-blue?style=flat&logo=javascript" alt="JS"> JavaScript</td> <td style="padding: 0.5rem;"> <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 100%;"> <div style="background-color: #2196F3; height: 100%; width: 70%; border-radius: 10px;"></div> </div> <small>70%</small> </td> </tr> <!-- Add more rows as needed --> <tr> <td style="padding: 0.5rem;"><img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=flat&logo=git" alt="Git"> Git & Collaboration</td> <td style="padding: 0.5rem;"> <div style="background-color: #e0e0e0; border-radius: 10px; height: 20px; width: 100%;"> <div style="background-color: #FF9800; height: 100%; width: 80%; border-radius: 10px;"></div> </div> <small>80%</small> </td> </tr> </table> <!-- Featured Projects Section -->
+
+🔥 Featured Projects
+These showcase my hands-on work from ALX and personal experiments. I love tackling [insert types of projects: e.g., "full-stack web apps, AI-driven tools for social good, and collaborative open-source contributions"].
+Project
+Description
+Tech Stack
+Link
+[Project 1 Name] <small>[Brief desc: e.g., "A responsive e-commerce dashboard that reduced load times by 40%."]</small>
+Stars
+Python, Flask, PostgreSQL
+![Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
+[Project 2 Name] <small>[Brief desc: e.g., "An AI chatbot for Kenyan healthcare queries, emphasizing ethical data handling."]</small>
+Forks
+JavaScript, React, TensorFlow
+![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=heroku) (https://[demo-url])
+<!-- Add 3-5 rows; pin repos via GitHub's "Customize your pins" in profile overview -->
